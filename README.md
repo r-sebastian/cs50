@@ -1,8 +1,8 @@
 #**CS50 Labs and Problem Sets**
 
-##WEEK 0
+## WEEK 0
 
-###LAB 0 - Scratch
+### LAB 0 - Scratch
 
 **Implement any Scratch project of my choice** with the following [specifications](https://cs50.harvard.edu/x/2023/psets/0/scratch/).
 
@@ -12,11 +12,11 @@ A simple Spaceship shooting game inspired from the retro game called Asteroids.
 *Move using arrow keys
 *Game Over when Asteroids hits your spaceship
 
-##WEEK 1(2022)
+## WEEK 1(2022)
 
-###LAB 1 - None
+### LAB 1 - None
 
-###Problem Set 1
+### Problem Set 1
 
 **Hello**
 
@@ -39,4 +39,4 @@ A [Greedy Algorithm](https://cs50.harvard.edu/x/2022/psets/1/cash/#greedy-algori
 
 A [Luhn’s Algorithm](https://cs50.harvard.edu/x/2022/psets/1/credit/#luhns-algorithm) implementation to tell if a card numbere entered is a VISA,AMEX or MASTERCARD.[More Info](https://cs50.harvard.edu/x/2022/psets/1/credit/#implementation-details)
 
-##WEEK 2(2023)
+## WEEK 2(2023)
