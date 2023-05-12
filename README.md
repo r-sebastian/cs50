@@ -22,7 +22,7 @@ A simple Spaceship shooting game inspired from the retro game called Asteroids.
 - Simple Hello, \[argument\]
 
 **MARIO - LESS**
--Display a simple # Pattern Accodeing to the input.[More Info](https://cs50.harvard.edu/x/2022/psets/1/mario/less/#world-1-1)
+- Display a simple # Pattern Accodeing to the input.[More Info](https://cs50.harvard.edu/x/2022/psets/1/mario/less/#world-1-1)
 
 **MARIO - MORE**
 - A More Difficut # Pattern Accodeing to the input.[More Info](https://cs50.harvard.edu/x/2022/psets/1/mario/more/#world-1-1)
