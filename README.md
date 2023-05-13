@@ -24,19 +24,19 @@
 
 ### PROBLEM SET 1
 
-    **[HELLO](https://cs50.harvard.edu/x/2022/psets/1/hello/)**
+**[HELLO](https://cs50.harvard.edu/x/2022/psets/1/hello/)**
         - Simple Hello, \[argument\]
 
-    **[MARIO - LESS](https://cs50.harvard.edu/x/2022/psets/1/mario/less/#mario)**
+**[MARIO - LESS](https://cs50.harvard.edu/x/2022/psets/1/mario/less/#mario)**
         - Display a simple # Pattern Accodeing to the input.
 
-    **[MARIO - MORE](https://cs50.harvard.edu/x/2022/psets/1/mario/more/#mario)**
+**[MARIO - MORE](https://cs50.harvard.edu/x/2022/psets/1/mario/more/#mario)**
         - A More Difficut # Pattern Accodeing to the input.
 
-    **[CASH](https://cs50.harvard.edu/x/2022/psets/1/cash/#cash)**
+**[CASH](https://cs50.harvard.edu/x/2022/psets/1/cash/#cash)**
         - A [Greedy Algorithm](https://cs50.harvard.edu/x/2022/psets/1/cash/#greedy-algorithms) approach to give out change.
 
-    **[CREDIT](https://cs50.harvard.edu/x/2022/psets/1/credit/#credit)**
+**[CREDIT](https://cs50.harvard.edu/x/2022/psets/1/credit/#credit)**
         - A [Luhn’s Algorithm](https://cs50.harvard.edu/x/2022/psets/1/credit/#luhns-algorithm) implementation to tell if a card numbere entered is a VISA,AMEX or MASTERCARD.
 
 <!-------------------------------------------------WEEK 2------------------------------------------------------>
