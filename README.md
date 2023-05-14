@@ -41,3 +41,9 @@
 
 <!-------------------------------------------------WEEK 2------------------------------------------------------>
 ## WEEK 2(2023)
+
+### [LAB 2 - Scrabble](https://cs50.harvard.edu/x/2023/labs/2/#lab-2-scrabble)
+
+- Determine which of two Scrabble words is worth more
+
+### PROBLEM SET 2
