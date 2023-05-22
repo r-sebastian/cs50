@@ -47,3 +47,6 @@
 - Determine which of two Scrabble words is worth more
 
 ### PROBLEM SET 2
+
+**[Readability](https://cs50.harvard.edu/x/2023/psets/2/readability/)**
+- Using the Coleman-Liau index Algorithm to find the US grade level of a text
