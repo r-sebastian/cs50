@@ -50,3 +50,6 @@
 
 **[Readability](https://cs50.harvard.edu/x/2023/psets/2/readability/)**
 - Using the Coleman-Liau index Algorithm to find the US grade level of a text
+
+**[Bulbs](https://cs50.harvard.edu/x/2023/psets/2/bulbs/)**
+- Display the binary representation of any message using black(0) and orange(1) circles
