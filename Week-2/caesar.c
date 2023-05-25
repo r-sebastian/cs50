@@ -33,8 +33,8 @@ int main(int argc, string argv[])
         //getting the planetext
         string pt = get_string("plaintext: ");
         //convetring to cipher text
-        string ct = rotate(key,pt);
-        printf("ciphertext: %s\n",ct);
+        rotate(key,pt);
+
     }
 }
 
@@ -50,13 +50,17 @@ int only_digits(string key)
 string rotate(int key, string pt)
 {
     int len = strlen(pt);
-    string ct[len];
-    int c,ci;
+    char ct[len];
     for ( int i = 0; i < len; i++)
     {
-        c = pt[i];
-        ci = (c + key ) % 26;
-        printf("%c",ci);
+        if (isalpha(pt[i]))
+        {
+            if(isupper(pt[i]))
+                ct[i] = ( ( (int)pt[i] + key - 65 ) % 26 ) + 65;
+            else
+                ct[i] = ( ( (int)pt[i] + key - 97 ) % 26 ) + 97;
+        }
     }
-    return "ct";
+    printf("ciphertext: %s\n",ct);
+    return 0;
 }
