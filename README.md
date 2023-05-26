@@ -53,3 +53,9 @@
 
 **[Bulbs](https://cs50.harvard.edu/x/2023/psets/2/bulbs/)**
 - Display the binary representation of any message using black(0) and orange(1) circles
+
+**[Caesar](https://cs50.harvard.edu/x/2023/psets/2/caesar/)**
+- Implement a program that encrypts messages using Caesar’s cipher
+
+**[Substitution](https://cs50.harvard.edu/x/2023/psets/2/substitution/)**
+- A program that implements a substitution cipher.
