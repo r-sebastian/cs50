@@ -50,16 +50,18 @@ int only_digits(string key)
 string rotate(int key, string pt)
 {
     int len = strlen(pt);
-    char ct[len];
+    char ct[100];
     for ( int i = 0; i < len; i++)
     {
         if (isalpha(pt[i]))
         {
-            if(isupper(pt[i]))
+            if(isupper(pt[i]))A
                 ct[i] = ( ( (int)pt[i] + key - 65 ) % 26 ) + 65;
             else
                 ct[i] = ( ( (int)pt[i] + key - 97 ) % 26 ) + 97;
         }
+        else
+            ct[i] = pt[i];
     }
     printf("ciphertext: %s\n",ct);
     return 0;
