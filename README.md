@@ -59,3 +59,11 @@
 
 **[Substitution](https://cs50.harvard.edu/x/2023/psets/2/substitution/)**
 - A program that implements a substitution cipher.
+
+<!-------------------------------------------------WEEK 3------------------------------------------------------>
+## WEEK 3
+
+### Practice Problems
+
+**[Recursive](https://cs50.harvard.edu/x/2023/problems/3/atoi/#recursive-atoi)**
+- Implementation of atoi() using recursion.
