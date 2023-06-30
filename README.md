@@ -67,3 +67,8 @@
 
 **[Recursive](https://cs50.harvard.edu/x/2023/problems/3/atoi/#recursive-atoi)**
 - Implementation of atoi() using recursion.
+
+### PROBLEM SET 2
+
+**[Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/)**
+- Implementation a program that runs a plurality election
