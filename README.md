@@ -72,3 +72,6 @@
 
 **[Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/)**
 - Implementation a program that runs a plurality election
+
+**[Runoff](https://cs50.harvard.edu/x/2023/psets/3/runoff/)**
+- Implementation a program that runs a runoff election
