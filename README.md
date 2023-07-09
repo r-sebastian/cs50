@@ -75,3 +75,7 @@
 
 **[Runoff](https://cs50.harvard.edu/x/2023/psets/3/runoff/)**
 - Implementation a program that runs a runoff election
+
+**[Tideman](https://cs50.harvard.edu/x/2023/psets/3/tideman/)**
+- Implementation a program that runs a tideman election
+- **NOT COMPLETED**
